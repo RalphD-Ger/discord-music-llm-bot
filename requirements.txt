@@ -1,0 +1,7 @@
+discord.py[voice]
+xai-sdk
+yt-dlp
+httpx
+rapidfuzz
+mutagen
+davey
